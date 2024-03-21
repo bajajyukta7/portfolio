@@ -10,10 +10,10 @@ description: |
   Always motivated at finding solutions to impromptu requirements in the team.
   <br>
   Education:
-  - IIT(ISM) Dhanbad<br>
-  - BTech. in Computer Science<br>
-  - May 2019 | Dhanbad, India<br>
-  - GPA 9.23/10.0
+  - "IIT(ISM) Dhanbad"
+  - "BTech. in Computer Science"
+  - "May 2019 | Dhanbad, India"
+  - "GPA: 9.23/10.0"
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
