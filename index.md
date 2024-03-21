@@ -2,11 +2,6 @@
 layout: default
 title: My Resume
 ---
-
-<div style="display: flex;">
-
-<div style="flex: 1; margin-right: 20px;">
-
 # Yukta Bajaj
 [Email](mailto:bajajyukta7@gmail.com) | +918804522302
 
@@ -60,10 +55,6 @@ title: My Resume
 - Secured 7th Rank in Creative Science Fair-2011 (A city level Science fair).
 - Awarded laptop and letter of appreciation by Shri Ashok Gahlot(Chief Minister of Rajasthan at that time) for 10th exam conducted by BSER under Rajiv Gandhi Digital Student Yojna.
 
-</div>
-
-<div style="flex: 1;">
-
 ## Experience
 
 ### Azure Microsoft, Bangalore
@@ -111,7 +102,3 @@ title: My Resume
 ## Research
 - IIT(ISM) Dhanbad, Dec 2018 – April 2019 | Dhanbad, Jharkhand
   - Attempted to provide some Deterministic Results for primality test.  
-
-</div>
-
-</div>
