@@ -1,123 +1,117 @@
 ---
 layout: default
+title: My Resume
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<div style="display: flex;">
 
-[Link to another page](./another-page.html).
+<div style="flex: 1; margin-right: 20px;">
 
-There should be whitespace between paragraphs.
+# Yukta Bajaj
+[Email](mailto:bajajyukta7@gmail.com) | +918804522302
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Education
 
-# Header 1
+### IIT(ISM) Dhanbad
+- BTech. in Computer Science
+- May 2019 | Dhanbad, India
+- GPA: 9.23 / 10.0
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Creative Public School
+- Graduated May 2014 | Gangapur City, India
+- XII: 86.00% | X: 88.33%
 
-## Header 2
+## Links
+- LinkedIn: [bajajyukta7](https://www.linkedin.com/in/bajajyukta7)
+- Github: [bajajyukta7](https://github.com/bajajyukta7)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Skills
+### Competitive Programming
+- Codechef: bajajyukta7
+- Spoj: secret1
 
-### Header 3
+### Programming
+- C++
+- C
+- Python
+- C#
+- SQL
+- Java
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Coursework
+- Object Oriented Programming
+- Compiler Design
+- Cryptography
+- Computer Graphics
+- Computer Networks
+- DataBase Management System
+- Operating Systems
+- Information and Coding Theory
+- Graph Theory
+- Algorithms
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Awards
+- Growth Mindset Award in Microsoft
+- Young Innovator Aware in Samsung Hackathon.
+- 2nd Rank in PowerPuff Coders 4.0, Coding Contest of IIT(ISM) Dhanbad.
+- Secured 5th Rank in Hackfest,A 36 hour All India Hackathon organised by IIT(ISM) Dhanbad.
+- 1st Rank in PowerPuff Coders 3.0, Coding Contest of IIT(ISM) Dhanbad.
+- 4th Rank in Odd-De Code 5.0, Coding Contest of IIT(ISM) Dhanbad.
+- Secured 7th Rank in Creative Science Fair-2011 (A city level Science fair).
+- Awarded laptop and letter of appreciation by Shri Ashok Gahlot(Chief Minister of Rajasthan at that time) for 10th exam conducted by BSER under Rajiv Gandhi Digital Student Yojna.
 
-#### Header 4
+</div>
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+<div style="flex: 1;">
 
-##### Header 5
+## Experience
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### Azure Microsoft, Bangalore
+- SDE2 Nov 2022 - Present, SDE June 2021 - Nov 2022, Bangalore
+  - Working on a new distributed service for the last 6 months.
+  - Launched a new product "SAP on Azure" from scratch worth revenue 5 billion within 1 year.
+  - Significant contributor in end to end designs and POCs from scratch.
+  - SME and owner for multiple complex areas(Auth, Features, Storage etc.) in SAP on Azure service.
+  - Worked with a large team of 40 people and multiple sister teams to leverage their product.
+  - Mentored junior ICs in the team to ramp up on the product.
+  - Received an award for growth mindset.
 
-###### Header 6
+### Samsung Research and Development, Bangalore
+- Software Developer, June 2019 - June 2021, Bangalore
+  - Working in Multimedia team to develop next generation solutions for Samsung flagship devices(S, N, Fold series)
+  - Revamped Gallery Memories in Samsung ONEUI 3.1
+  - Added delete recommendation(bad quality images) for user
+  - Improved Code quality parameters(CC,DC,LOC,MDC) from 20% to 95% for 5 projects.
+  - Increased Unit test coverage from 20% to 80% for 5 projects.
+  - Automated 3 critical processes to save 100+ hours/month cumulatively
+  - Enhanced entire Gallery code-base (100k+ lines) to fix all quality issues
+  - Resolved Market issues in flagship devices
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### Samsung R and D, Bangalore
+- Software Development Intern, May 2018 - July 2018 | Bangalore
+  - Integrated in-house ML solution with TensorFlow lite
+  - Tested the integration with Android app
 
-### There's a horizontal rule below this.
+### IIT ISM Dhanbad
+1. Natural Language Interpretation
+   - Designed C++ system to parse and classify human languages into different commands 
 
-* * *
+2. Cheater Identification and Detection in Shamir Secret Sharing Scheme
+   - Developed an algorithm to detect the cheater
+   - POC was done in C++.
 
-### Here is an unordered list:
+3. Crime Reporting Helper(Hackfest-2018 IIT(ISM) Dhanbad| Secured 5th Rank)
+   - Developed a two app system to establish easier coordination between citizens and police
+   - Two apps- for user and police
+   - Used Microsoft Cognitive APIs for face detection
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+4. Finding similarity between Text Documents and Clustering them
+   - Used Multinomial Naive Bayes, SVM and K-means Clustering based on Tf-idf indexing   
 
-### And an ordered list:
+## Research
+- IIT(ISM) Dhanbad, Dec 2018 – April 2019 | Dhanbad, Jharkhand
+  - Attempted to provide some Deterministic Results for primality test.  
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+</div>
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+</div>
