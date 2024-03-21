@@ -2,11 +2,9 @@
 layout: default
 title: YuktaResume
 ---
-# Yukta Bajaj
-[Email](mailto:bajajyukta7@gmail.com) | +918804522302
+[Email: bajajyukta7@gmail.com](mailto:bajajyukta7@gmail.com)|
 
 ## Education
-
 ### IIT(ISM) Dhanbad
 - BTech. in Computer Science
 - May 2019 | Dhanbad, India
