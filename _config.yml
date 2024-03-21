@@ -1,7 +1,6 @@
 title: Yukta Bajaj
 logo: /assets/img/yukta.jpg
 
-
 description:
   <p align="center">|
   <a href="https://www.linkedin.com/in/bajajyukta7/">LinkedIn</a> 
@@ -11,6 +10,7 @@ description:
   Always motivated at finding solution to impromptu requirements in the team.
   <br>
   </p>
+  
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
