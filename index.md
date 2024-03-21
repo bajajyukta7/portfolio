@@ -2,7 +2,7 @@
 layout: default
 title: YuktaResume
 ---
-[Email: bajajyukta7@gmail.com](mailto:bajajyukta7@gmail.com)|
+[Email: bajajyukta7@gmail.com](mailto:bajajyukta7@gmail.com)
 
 ## Education
 ### IIT(ISM) Dhanbad
