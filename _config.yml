@@ -11,14 +11,13 @@ description:
   Strong engineering professional with a B.Tech. in Comffputer Science and Engineering from IIT Dhanbad. 
   Always motivated at finding solution to impromptu requirements in the team.
   <br>
-  Education-
-    institution- IIT(ISM) Dhanbad
-    degree- BTech. in Computer Science
-    date- May 2019
-    location- Dhanbad, India
-    gpa- 9.23/10.0
-  <br>
 
+  Education-
+  #IIT(ISM) Dhanbad<br>
+  BTech. in Computer Science<br>
+  May 2019| Dhanbad, India
+  GPA- 9.23/10.0
+  <br>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
