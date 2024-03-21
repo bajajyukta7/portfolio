@@ -8,7 +8,65 @@ description:
   Strong engineering professional with a B.Tech. in Computer Science and Engineering from IIT Dhanbad. 
   Always motivated at finding solution to impromptu requirements in the team.
   <br>
-  
+
+contact:
+  email: href{mailto:bajajyukta7@gmail.com}{bajajyukta7@gmail.com}
+  phone: +918804522302
+
+education:
+  - institution: IIT(ISM) Dhanbad
+    degree: BTech. in Computer Science
+    date: May 2019
+    location: Dhanbad, India
+    gpa: 9.23/10.0
+  - institution: Creative Public School
+    degree: Graduated
+    date: May 2014
+    location: Gangapur City, India
+    grades:
+      - level: XII
+        percentage: 86.00%
+      - level: X
+        percentage: 88.33%
+
+links:
+  - LinkedIn: https://www.linkedin.com/in/bajajyukta7
+  - Github: https://github.com/bajajyukta7
+
+skills:
+  competitive_programming:
+    - platform: Codechef
+      username: bajajyukta7
+    - platform: Spoj
+      username: secret1
+  programming:
+    - C++
+    - C
+    - Python
+    - C#
+    - SQL
+    - Java
+
+coursework:
+  - Object Oriented Programming
+  - Compiler Design
+  - Cryptography
+  - Computer Graphics
+  - Computer Networks
+  - DataBase Management System
+  - Operating Systems
+  - Information and Coding Theory
+  - Graph Theory
+  - Algorithms
+
+awards:
+  - Growth Mindset Award in Microsoft
+  - Young Innovator Aware in Samsung Hackathon
+  - 2nd Rank in PowerPuff Coders 4.0, Coding Contest of IIT(ISM) Dhanbad
+  - Secured 5th Rank in Hackfest, a 36-hour All India Hackathon organized by IIT(ISM) Dhanbad
+  - 1st Rank in PowerPuff Coders 3.0, Coding Contest of IIT(ISM) Dhanbad
+  - 4th Rank in Odd-De Code 5.0,
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
