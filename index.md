@@ -1,6 +1,6 @@
 ---
-layout: 2column
-title: My Resume
+layout: default
+title: YuktaResume
 ---
 # Yukta Bajaj
 [Email](mailto:bajajyukta7@gmail.com) | +918804522302
